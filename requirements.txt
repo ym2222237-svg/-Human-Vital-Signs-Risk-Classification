@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+joblib
+scikit-learn
+xgboost
+Logistic Regression
+Random Forest
